@@ -1,0 +1,6 @@
+ruleDir: ["./rules"]
+customLanguages:
+  verilog:
+    libraryPath: ./my-languages.so
+    extensions: [v, sv]
+    expandChar: _
